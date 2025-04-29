@@ -23,7 +23,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='./assets/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img width="700" height="400" src='./assets/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
